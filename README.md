@@ -1,4 +1,4 @@
-# Ponus Calculator Group Project
+# Bonus Calculator Group Project
 
 Group project at Prime Digital Academy for an application that calculates bonuses for various employees. 
 
